@@ -1,2 +1,0 @@
-# ramsoi
-My coding playgroud
